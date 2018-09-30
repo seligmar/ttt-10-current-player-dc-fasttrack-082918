@@ -1,6 +1,6 @@
 def badge_maker(name)
-  puts "Hello, my name is #{batch_badge_creator[""]}."
+  puts "Hello, my name is #{name[""]}."
 end 
 
-batch_badge_creator = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
